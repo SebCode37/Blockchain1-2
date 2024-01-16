@@ -13,7 +13,7 @@ Blockchain Course 1 and 2! In these courses, we explorex key concepts and practi
 
 ### DApp Development - TicTacToe
 
-- Engage in DApp development with a practical example: TicTacToe.
+- Engage in DApp development with a practical example: RockPaperScissors.
 - Understand how to create decentralized games on the blockchain.
 
 ### Software Architecture
